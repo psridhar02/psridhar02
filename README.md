@@ -8,11 +8,11 @@ I'm a Computer Science Masters student at NYIT!
 ## 🔭 Projects I've Worked On
 
 ### **1. Coastal Oasis Spa Website 💆🏽‍♀️**
-- **Description:** Built a responsive website for a spa business using **HTML, CSS, JavaScript, and Bootstrap**.
+- **Description:** Built a responsive website for a spa business using **HTML, CSS, Bootstrap**.
 - **Skills Learned:** Frontend web development, responsive design, UI/UX principles, and project deployment.
 
 ### **2. NFL Tracker 🏈**
-- **Description:** Developed a tracker application to monitor NFL games, team performance, and player information.
+- **Description:** Developed a tracker application to monitor NFL games, team performance, and player information using **JavaScript, CSS and HTML**.
 - **Skills Learned:** Data handling, APIs, and dynamic data visualization.
 
 ### **3. B+ Tree Implementation**
