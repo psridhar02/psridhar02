@@ -15,7 +15,11 @@ I'm a Computer Science Masters student at NYIT!
 - Developed a tracker application to monitor NFL game scores live, team performance, and offensive/defensive roster information using **JavaScript, CSS and HTML**.
 - Learned: Data handling, APIs, dynamic data visualization and more frontend design skills.
 
-### **3. B+ Tree Implementation**
+### **3. Planora Task Manager App 📝**
+- Built a single-page, responsive task management web app with React.
+- The application allows users to organize, track, and complete daily tasks through an interactive interface featuring a built-in calendar, editable task lists, and a real-time weather widget.
+
+### **4. B+ Tree Implementation**
 - Implemented a B+ Tree data structure in Java, supporting insertion, deletion, and search operations.
 - Learned: Advanced data structures, Java programming, recursion, and algorithm optimization.
 
